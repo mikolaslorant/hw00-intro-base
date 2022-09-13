@@ -2,6 +2,8 @@
 
 ## Demo
 
+https://mikolaslorant.github.io/hw00-intro-base/
+
 After implementing the cube I wanted to explore of a sun going around the planet.
 I used three shaders: 
 * I modified the lambert shader to support blinn-phong, perlin noise with 3D input for the grass, sand and dirt. Also added snow based on the height. 
